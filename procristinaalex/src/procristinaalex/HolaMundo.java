@@ -8,5 +8,7 @@ public class HolaMundo {
 	
 		System.out.println("Hola x2!");
 		
+		System.out.println("Hola x3!");
+		
 	}
 }
